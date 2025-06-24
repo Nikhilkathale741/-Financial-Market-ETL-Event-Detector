@@ -22,7 +22,8 @@ A powerful mini-project built with Python, Streamlit, and AI to track stock pric
 
 ## 📸 Demo Screenshot
 
-![image](https://github.com/user-attachments/assets/341c3e4d-0eb0-47f3-9587-0bb3e0b3823c)
+
+![Screenshot 2025-06-24 234423](https://github.com/user-attachments/assets/8ef9c182-bb6a-4a9f-8392-c6a6af8c1a3b)
 
 
 ---
